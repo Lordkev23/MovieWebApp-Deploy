@@ -52,7 +52,7 @@ export const List = ({listState, setListState}) =>{
 
                 </article>
                 );
-            }): <h2>There aren't movies to show in this moment</h2>}
+            }): <h2>There aren't movies to show in this moment. If you like you can add it</h2>}
         </>
     )
 }
